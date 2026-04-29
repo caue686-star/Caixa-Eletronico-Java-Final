@@ -10,4 +10,5 @@ public String reposicaoCedulas(Integer cedula, Integer quantidade);
 
 public String armazenaCotaMinima(Integer minimo);
 
+public String pegaRelatorioCedulas();
 }
